@@ -1,5 +1,5 @@
 ## All Coursera Certificates earned till now :
-![One]('Algorithmic_toolbox.pdf')
+[[Gollum|Algorithmic_toolbox.pdf]]
 
 
 
