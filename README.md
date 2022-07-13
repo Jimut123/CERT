@@ -1,2 +1,2 @@
 # CERT
-All My certificates
+All my certificates.
